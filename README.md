@@ -5,7 +5,7 @@ Code for Universal Defensive Underpainting Patch: Making Your Text Invisible to 
 
 # About Prefiles
 All models and data can be accessed in out code (../AllData/ and ../AllConfig/all_model).
-In particular, the running records of experiments can be viewed in Mylog.
+In particular, the history of my running records can be viewed in Mylog.
 
 After downloading, please put them in the prefile folder.
 
