@@ -1,7 +1,7 @@
 # UDUP
 Code for Universal Defensive Underpainting Patch: Making Your Text Invisible to Optical Character Recognition
 
-![avatar](https://raw.githubusercontent.com/QRICKDD/LLA/master/picture/temp_picture.png)
+![avatar](https://raw.githubusercontent.com/QRICKDD/UDUP/main/figure/OCR-demo.png)
 
 # About Prefiles
 All models and data can be accessed in out code (../AllData/ and ../AllConfig/all_model).
