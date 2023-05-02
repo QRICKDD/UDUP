@@ -1,2 +1,0 @@
-test_type:test iter:116 R:0.2145 P:0.2174 F:0.2160 MUI:0.1674
-test_type:test iter:120 R:0.1903 P:0.2326 F:0.2094 MUI:0.1810
