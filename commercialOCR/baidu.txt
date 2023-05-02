@@ -1,0 +1,27 @@
+1 999
+宽度： 147 高度： 40
+左间距： 417 上间距： 63
+2 Abstract
+宽度： 308 高度： 76
+左间距： 732 上间距： 135
+3 Watermarking is the process of embedding information
+宽度： 1538 高度： 67
+左间距： 157 上间距： 317
+4 into an image that can survive under distortions,while re-
+宽度： 1628 高度： 66
+左间距： 70 上间距： 399
+5 quiring the encoded image to have little or no perceptual
+宽度： 1628 高度： 70
+左间距： 68 上间距： 482
+6 difference from the original image.Recently,deep learning-
+宽度： 1624 高度： 72
+左间距： 70 上间距： 563
+7 based methods achieyed impressive results in both visual
+宽度： 1632 高度： 67
+左间距： 68 上间距： 646
+8 quality and message payload under a wide variery of im-
+宽度： 1630 高度： 69
+左间距： 68 上间距： 729
+9 age distortions.However,these methods all require differ-
+宽度： 1630 高度： 53
+左间距： 68 上间距： 816
