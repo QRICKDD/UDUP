@@ -21,9 +21,8 @@ We provide as an example the source code to run. Run the following commands in s
 ###############################################
 # Omit if already git cloned.
 git clone repository
-cd UAUP
 # Carry out UDUP.
-python run UDUPAttack.py
+python run train_udup.py
 ############################################### 
 # Results are stored in Mylog and result_save.
 # Ground-truth boxes about CRAFT/DBnet/easyocr are stored in test_save
