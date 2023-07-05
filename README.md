@@ -32,3 +32,5 @@ python run train_udup.py
 ![avatar](https://github.com/QRICKDD/UDUP/blob/main/DEMO-EAST-Tessarct-OnePlus9-PaddlePaddle.png)
 
 
+# Performance on CRAFT after BM3D denoise
+![avatar](https://github.com/QRICKDD/UDUP/blob/main/BM3D-Denoise-Demo.png)
